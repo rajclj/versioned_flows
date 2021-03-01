@@ -1,6 +1,6 @@
 flows:
-  26cc2ded-29f1-4678-b4e4-d0cf6e6f6aa3: {ver: 1, file: test1.snapshot, comments: 'initial:
-      schedule 30 secs', author: anonymous, created: 1614556821593, flowName: test1,
+  26cc2ded-29f1-4678-b4e4-d0cf6e6f6aa3: {ver: 2, file: test1.snapshot, comments: version
+      changed to 45 secs, author: anonymous, created: 1614557036057, flowName: test1,
     flowDesc: test1}
 layoutVer: 1
 bucketId: 453362b7-3520-4964-bf6d-fc6fcf5d1b90
