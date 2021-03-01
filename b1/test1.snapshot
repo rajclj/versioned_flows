@@ -96,7 +96,7 @@
           },
           "runDurationMillis" : 0,
           "scheduledState" : "ENABLED",
-          "schedulingPeriod" : "50 sec",
+          "schedulingPeriod" : "51 sec",
           "schedulingStrategy" : "TIMER_DRIVEN",
           "style" : { },
           "type" : "org.apache.nifi.processors.standard.GenerateFlowFile",
